@@ -1,3 +1,11 @@
+## v0.1.1, 01 Sep 2022
+
+This includes the line biocViews: in the DESCRIPTION file to ensure that Bioconductor dependencies install.
+
+## Resubmission 01 June 2022
+
+This is a fix to the previous submission from earlier today which corrects an invalid URL in a documentation file.
+
 ## Submission 01 June 2022
 
 This is the first submission of this package to CRAN.
